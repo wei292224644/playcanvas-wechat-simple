@@ -453,122 +453,19 @@
       "projectFolder": "packages/platformize",
       "shouldPublish": true
     },
-    {
-      "packageName": "platformize-oasis",
-      "projectFolder": "packages/platformize-oasis",
-      "shouldPublish": true
-    },
-    {
-      "packageName": "platformize-three",
-      "projectFolder": "packages/platformize-three",
-      "shouldPublish": true
-    },
+  
     {
       "packageName": "platformize-playcanvas",
       "projectFolder": "packages/platformize-playcanvas",
       "shouldPublish": true
     },
-    {
-      "packageName": "platformize-pixi",
-      "projectFolder": "packages/platformize-pixi",
-      "shouldPublish": true
-    },
-    // tests
-    {
-      "packageName": "tests-three",
-      "projectFolder": "examples/tests-three",
-      "shouldPublish": false
-    },
-    {
-      "packageName": "tests-oasis",
-      "projectFolder": "examples/tests-oasis",
-      "shouldPublish": false
-    },
-    {
-      "packageName": "tests-playcanvas",
-      "projectFolder": "examples/tests-playcanvas",
-      "shouldPublish": false
-    },
-    {
-      "packageName": "tests-pixi",
-      "projectFolder": "examples/tests-pixi",
-      "shouldPublish": false
-    },
     // examples
-    {
-      "packageName": "platformize-playcanvas-wechat",
-      "projectFolder": "examples/playcanvas-wechat",
-      "shouldPublish": false
-    },
+    
     {
       "packageName": "platformize-playcanvas-wechat-simple",
       "projectFolder": "examples/playcanvas-wechat-simple",
       "shouldPublish": false
-    },
-    {
-      "packageName": "platformize-playcanvas-wechat-game",
-      "projectFolder": "examples/playcanvas-wechat-game",
-      "shouldPublish": false
-    },
-    {
-      "packageName": "platformize-playcanvas-taobao",
-      "projectFolder": "examples/playcanvas-taobao",
-      "shouldPublish": false
-    },
-    {
-      "packageName": "platformize-oasis-wechat",
-      "projectFolder": "examples/oasis-wechat",
-      "shouldPublish": false
-    },
-    {
-      "packageName": "platformize-oasis-wechat-game",
-      "projectFolder": "examples/oasis-wechat-game",
-      "shouldPublish": false
-    },
-    {
-      "packageName": "platformize-oasis-wechat-simple",
-      "projectFolder": "examples/oasis-wechat-simple",
-      "shouldPublish": false
-    },
-    {
-      "packageName": "platformize-oasis-taobao",
-      "projectFolder": "examples/oasis-taobao",
-      "shouldPublish": false
-    },
-    {
-      "packageName": "platformize-three-wechat",
-      "projectFolder": "examples/three-wechat",
-      "shouldPublish": false
-    },
-    {
-      "packageName": "platformize-three-byte",
-      "projectFolder": "examples/three-byte",
-      "shouldPublish": false
-    },
-    {
-      "packageName": "platformize-three-taobao",
-      "projectFolder": "examples/three-taobao",
-      "shouldPublish": false
-    },
-    {
-      "packageName": "platformize-three-wechat-game",
-      "projectFolder": "examples/three-wechat-game",
-      "shouldPublish": false
-    },
-    {
-      "packageName": "platformize-three-wechat-simple",
-      "projectFolder": "examples/three-wechat-simple",
-      "shouldPublish": false
-    },
-    {
-      "packageName": "platformize-pixi-wechat",
-      "projectFolder": "examples/pixi-wechat",
-      "shouldPublish": false
-    },
-    {
-      "packageName": "platformize-pixi-wechat-game",
-      "projectFolder": "examples/pixi-wechat-game",
-      "shouldPublish": false
     }
+   
   ]
 }
