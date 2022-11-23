@@ -16,7 +16,7 @@ specifiers:
   estree-walker: 2.0.1
   magic-string: ^0.25.7
   minigame-api-typings: ^3.4.1
-  playcanvas: 1.58.0
+  playcanvas: 1.58.1
   regenerator-runtime: ~0.13.9
   rollup: ^2.60.1
   rollup-plugin-node-builtins: ^2.1.2
@@ -38,7 +38,7 @@ dependencies:
   estree-walker: 2.0.1
   magic-string: 0.25.9
   minigame-api-typings: 3.5.0
-  playcanvas: 1.58.0
+  playcanvas: 1.58.1
   regenerator-runtime: 0.13.9
   rollup: 2.78.1
   rollup-plugin-node-builtins: 2.1.2
@@ -2622,8 +2622,8 @@ packages:
       find-up: 4.1.0
     dev: false
 
-  /playcanvas/1.58.0:
-    resolution: {integrity: sha512-lK2qPSp/UOwFRmGrTyZ4yMfm7ME6xT0ukL7XcPvs19XUXcx+HLaowVwYF/4NljldPkenlctz0nRmrX0iHPN6tQ==}
+  /playcanvas/1.58.1:
+    resolution: {integrity: sha512-G1B3+Ajirg/XikSs94atPc62fV68tfzRZKqZQtHHhFUIEQOY9y54xQZWXH+Upb7HvmUWzQeYIICznAJ8UUxmUA==}
     dev: false
 
   /plur/4.0.0:
@@ -3403,12 +3403,12 @@ packages:
     dev: false
 
   file:projects/platformize-playcanvas-wechat-simple.tgz:
-    resolution: {integrity: sha512-dRgV9jh8pnl0/WgrtNabRN1941QUWckKCFzb97BjGx/+NnFcP3yBCOzf0I5Db+IFgHKboWX0J/Eq0gnQ+XGA3g==, tarball: file:projects/platformize-playcanvas-wechat-simple.tgz}
+    resolution: {integrity: sha512-ic3moXp9CnGDitgxXNOROLCA1m0rRKPvXbUwEFDnyPSnpLwyHWXza3q0doMSHPpmIRP3IyuZV9iOtENXsG+fVg==, tarball: file:projects/platformize-playcanvas-wechat-simple.tgz}
     name: '@rush-temp/platformize-playcanvas-wechat-simple'
     version: 0.0.0
     dependencies:
       '@types/wechat-miniprogram': 3.4.1
-      playcanvas: 1.58.0
+      playcanvas: 1.58.1
       rollup: 2.78.1
       typescript: 4.7.4
     dev: false

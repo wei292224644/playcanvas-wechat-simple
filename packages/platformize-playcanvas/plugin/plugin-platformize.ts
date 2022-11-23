@@ -59,6 +59,11 @@ function playcanvasPatch(): Plugin {
         `window.devicePixelRatio`,
       );
 
+      code = code.replace(
+        `+ ShaderUtils.versionCode(device) + ShaderUtils.precisionCode(device) + '\n' + fragDefines`,
+        `+ ShaderUtils.versionCode(device) + fragDefines + ShaderUtils.precisionCode(device) + '\n'`
+      )
+
       // patch URL.createObjectUrl
       code = code.replace(
         `URL.createObjectURL(new Blob([asset.file.contents]))`,
